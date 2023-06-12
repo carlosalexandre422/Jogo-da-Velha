@@ -19,9 +19,7 @@ public class Tabuleiro implements ITabuleiro {
     @Override
     public void limpar() {
         for (ArrayList<Character> linha : matriz) {
-            for (int j = 0; j < linha.size(); j++) {
-                linha.set(j, ' ');
-            }
+            linha.replaceAll(ignored -> ' ');
         }
     }
 
