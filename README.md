@@ -3,4 +3,4 @@
 
 
 # Diagrama de classes:
-![Captura de tela 2023-06-13 073313](https://github.com/carlosalexandre422/Jogo-da-Velha/assets/106106048/7e1a0a11-da53-4c1d-9b6f-172046c03439)
+![image](https://github.com/carlosalexandre422/Jogo-da-Velha/assets/106106048/f3aacea3-e0cf-4be1-b834-6971219b4cee)
