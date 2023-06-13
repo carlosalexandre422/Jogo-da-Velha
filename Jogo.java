@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Jogo {
     private Tabuleiro tabuleiro;
-    private Jogador jogadorX;
-    private Jogador jogadorO;
+    private JogadorX jogadorX;
+    private JogadorO jogadorO;
     private Scanner scanner;
     
     public Jogo() {
