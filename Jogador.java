@@ -1,7 +1,7 @@
 package jogodavelha;
 
 public abstract class Jogador {
-    protected String simbolo;
+    String simbolo;
     
     public Jogador(String simbolo) {
         this.simbolo = simbolo;
