@@ -1,5 +1,5 @@
 # Jogo-da-Velha
-[Relatório-JogoDaVelha.pdf](https://github.com/carlosalexandre422/Jogo-da-Velha/files/11729497/Relatorio-JogoDaVelha.1.pdf)
+[Relatório-JogoDaVelha.pdf](https://github.com/carlosalexandre422/Jogo-da-Velha/files/11733987/Relatorio-JogoDaVelha.pdf)
 
 
 # Diagrama de classes:
